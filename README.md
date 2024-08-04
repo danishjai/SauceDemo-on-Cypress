@@ -1,5 +1,5 @@
 # About
-This repository showcases how Cypress can be used to automate testing a web application. In this case we will be executing several UI automation test scripts on www.saucedemo.com
+This repository showcases how Cypress can be used to automate testing a web application. In this case we will be executing several UI automation test scripts on www.saucedemo.com/v1
 
 # Pre-Requisites
 - Ensure you have [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed. This will help with installing Cypress
