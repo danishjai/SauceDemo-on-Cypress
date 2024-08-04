@@ -14,3 +14,8 @@ Ideally Cypress should be installed in the root folder of the project but since 
 - `/cypress/fixtures` - Contains a set of data that can be used by the script
 - `/cypress/screenshots` - Contains the screenshot for when a test case fails. This folder is ignored by git since it's not necessary to be included in the repository
 - `/cypress/support` - Contains custom command files for the end to end scripts. Reusable functions are put in here for more readable & manageable code
+
+# How to Run
+- Clone the repository
+- Open CMD or Terminal and navigate to the project folder
+- Enter in the command `npx cypress run --headed`
